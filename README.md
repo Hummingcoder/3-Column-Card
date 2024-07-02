@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Frontend Mentor URL: [click here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub?share=true)
+- Live Site URL: [click here](https://hummingcoder.github.io/3-Column-Card/)
